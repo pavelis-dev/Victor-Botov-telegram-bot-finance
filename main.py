@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import time
 import settings
 
-# version = 1.0.1
+# version = 0.1
 
 
 bot = telebot.TeleBot(settings.API_KEY)
